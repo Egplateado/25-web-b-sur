@@ -1,4 +1,25 @@
-.Parrafo
+*
 {
-    display: inline;
+    box-sizing: border-box;
+    outline: 1px solid silver !important;
+}
+
+#my_info
+{
+    background-color: red;
+    display: flex;
+    /*flex-direction: row;*/
+    align-items: center;
+}
+
+.profile_image
+{
+    border-radius: 120px;
+    margin-right: 36px;
+    width: 120px;
+}
+
+.my_info__contact p
+{
+    
 }
