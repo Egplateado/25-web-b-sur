@@ -1,0 +1,51 @@
+body
+{
+    margin:0;
+    padding: 0;
+    background-color: antiquewhite;
+}
+nav
+{
+    background-color:rgb(161, 193, 225);
+    color: brown;
+    list-style-type:none;
+    text-align: center;
+    padding:0;
+    margin: 0;
+}
+
+nav li
+{
+    display: inline-block;
+    margin: 10px 80px;
+}
+
+header
+{
+    text-align: center;
+    font-family: 'Alkatra';
+    color: rgb(46, 244, 24);
+}
+
+.lateral
+{
+    display: inline;
+    float: right;
+    margin: 2px;
+    border-radius: 18px;
+    background-color: brown;
+}
+
+.uno
+{
+    display: inline-block;
+    background-color: cadetblue;
+    margin: 100px 300px 100px 0px;
+}
+
+.imagenes
+{
+    display: inline-block;
+    background-color: rgb(226, 54, 160);
+    margin: 1px 300px 100px 10px;
+}
